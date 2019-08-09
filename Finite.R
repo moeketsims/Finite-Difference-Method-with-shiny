@@ -4,6 +4,7 @@ library(shinyWidgets)
 library(ggplot2)
 # library(plotly)
 # Hello papi...
+# add kemelo instead
 
 ui <- fluidPage(
   # use a gradient in background
