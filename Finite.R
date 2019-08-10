@@ -2,7 +2,7 @@ library(shiny)
 library(shinydashboard)
 library(shinyWidgets)
 library(ggplot2)
-
+#notice added
 ui <- fluidPage(
   # use a gradient in background
   # setBackgroundColor(
