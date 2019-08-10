@@ -2,10 +2,6 @@ library(shiny)
 library(shinydashboard)
 library(shinyWidgets)
 library(ggplot2)
-# library(plotly)
-# add again
-# add add Moeketsi
-
 
 ui <- fluidPage(
   # use a gradient in background
